@@ -24,7 +24,7 @@ Regional Performance Page: A deep dive into state-wise data comparing total vehi
 Market Share Page: An analysis of top manufacturers (like Tata Motors) and their market dominance across different vehicle segments.
 
 💡 Key Insights & Business Value
-Growth Modeling: Developed DAX formulas for CAGR and revenue trends, uncovering a 161% growth potential in the 4-wheeler segment by 2030.
+Growth Modeling: Developed DAX formulas for CAGR and revenue trends, uncovering a 131% growth potential in the 4-wheeler segment by 2030.
 
 Greenfield Opportunities: Identified high-potential untapped markets (such as Meghalaya) where overall vehicle sales are growing rapidly but EV adoption remains very low, offering a first-mover advantage.
 
