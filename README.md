@@ -1,9 +1,11 @@
-📌 Project Overview
+📌 Project Overview :- 
+
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In North America, their market share rose to 25% over the last 5 years. As part of their expansion plans, they want to launch their bestselling models in India, where their current market share is less than 2%.
 
 This project provides a detailed market study of the existing EV and Hybrid market in India to help Bruce Haryali (Chief of AtliQ Motors India) make data-driven decisions for a successful launch.
 
-🎯 Business Problem
+🎯 Business Problem :- 
+
 The goal of this analysis is to answer key strategic questions regarding the Indian EV landscape, including:
 
 Which states are leading in EV adoption?
